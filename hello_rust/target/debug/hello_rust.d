@@ -1,1 +1,1 @@
-/workspaces/rusttest/hello_rust/target/debug/hello_rust: /workspaces/rusttest/hello_rust/src/calculator.rs /workspaces/rusttest/hello_rust/src/guessinggame.rs /workspaces/rusttest/hello_rust/src/main.rs /workspaces/rusttest/hello_rust/src/righttriangle.rs /workspaces/rusttest/hello_rust/src/shoppinglist.rs /workspaces/rusttest/hello_rust/src/tictactoe.rs
+/workspaces/Rust-Template/hello_rust/target/debug/hello_rust: /workspaces/Rust-Template/hello_rust/src/main.rs
